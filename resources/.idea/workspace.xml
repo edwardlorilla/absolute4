@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/assets/js/components/Layout/Pending/UserRequestView/Medicine.vue" description=":key=&quot;index&quot;/&gt;" line="110" />
+    <bookmark url="file://$PROJECT_DIR$/assets/js/components/Layout/Pending/view.vue" line="144" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ee2f20e-bcf0-468b-b0d2-5816ce349fcd" name="Default" comment="handling some errors" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="resources" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2018_07_25_235613_create_transactions_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../database/migrations/2018_07_25_235613_create_transactions_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transaction.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/Transaction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="175" selection-start-line="15" selection-start-column="158" selection-end-line="15" selection-end-column="175" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="126" column="122" selection-start-line="126" selection-start-column="122" selection-end-line="126" selection-end-column="122" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransactionController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/TransactionController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Expiry.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/Notifications/Expiry.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="date.php" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="127" column="21" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PendingController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/PendingController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="340" column="117" selection-start-line="340" selection-start-column="109" selection-end-line="340" selection-end-column="117" />
+              <folding>
+                <element signature="e#40#56#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/OrderController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="718">
+              <caret line="101" column="158" lean-forward="true" selection-start-line="101" selection-start-column="120" selection-end-line="101" selection-end-column="158" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="122" column="28" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrackController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/TrackController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="blade" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loading</find>
+      <find>transact</find>
+      <find>rol</find>
+      <find>request</find>
+      <find>pending-request</find>
+      <find>form.po_number</find>
+      <find>receip</find>
+      <find>purchase-o</find>
+      <find>requests</find>
+      <find>rece</find>
+      <find>updated_track</find>
+      <find>ex</find>
+      <find>supplies</find>
+      <find>expi</find>
+      <find>office</find>
+      <find>medi</find>
+      <find>medic</find>
+      <find>@mouseleave=</find>
+      <find>&lt;span style=&quot;float:</find>
+      <find>style=&quot;padding: 0 20px;&quot;</find>
+      <find>&lt;span style=&quot;float</find>
+      <find>&lt;span style=&quot;float:</find>
+      <find>app</find>
+      <find>&lt;span style=&quot;</find>
+      <find>das</find>
+      <find>purchase-order</find>
+      <find>Expiry</find>
+      <find>$expired</find>
+      <find>days</find>
+      <find>supply</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../app/Notifications/ApprovedRequest.php" />
+        <option value="$PROJECT_DIR$/../app/Notifications/ReorderMedicine.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Pending/UserRequestView/print_user_request.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Product/create.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Supplies/create_po.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Order/SubjectType.vue" />
+        <option value="$PROJECT_DIR$/../app/Product.php" />
+        <option value="$PROJECT_DIR$/../app/Notifications/Expiry.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Dashboard/wrapper.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Navigation.vue" />
+        <option value="$PROJECT_DIR$/../app/Http/Controllers/MedicineController.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Pending/view.vue" />
+        <option value="$PROJECT_DIR$/../database/migrations/2018_07_14_192823_create_products_table.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Dashboard/RecentExpireMedicine.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Table/Product.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Pending/UserRequestView/view.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Pending/UserRequestView/editProduct.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Pending/show.vue" />
+        <option value="$PROJECT_DIR$/../../../while.html" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/CategoryPackage/ProductCreate.vue" />
+        <option value="$PROJECT_DIR$/../app/Http/Controllers/ProductsController.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Supplies/create_supply.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Supplies/checkin.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Order/print.vue" />
+        <option value="$PROJECT_DIR$/../app/PrintPurchaseOrder.php" />
+        <option value="$PROJECT_DIR$/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/assets/js/components/Division/view.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/CategoryPackage/ProductEditCheckIn.vue" />
+        <option value="$PROJECT_DIR$/../database/migrations/2019_02_08_022256_create_print_purchase_orders_table.php" />
+        <option value="$PROJECT_DIR$/../app/Http/Controllers/TransactionController.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/MainSidebar.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Pending/show-supply.vue" />
+        <option value="$PROJECT_DIR$/../database/migrations/2018_09_04_190640_create_tracks_table.php" />
+        <option value="$PROJECT_DIR$/../app/Track.php" />
+        <option value="$PROJECT_DIR$/../routes/api.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Requests/print.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Requests/Request.vue" />
+        <option value="$PROJECT_DIR$/../app/Http/Controllers/RisController.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Receipt/view.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Receipt/print.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Activity/updated_track.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Activity/view.vue" />
+        <option value="$PROJECT_DIR$/../app/Http/Controllers/SupplyController.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Office/checkin.vue" />
+        <option value="$PROJECT_DIR$/assets/js/components/Supplies/create_office_supply.vue" />
+        <option value="$PROJECT_DIR$/../app/Http/Controllers/PendingController.php" />
+        <option value="$PROJECT_DIR$/assets/js/components/Layout/Pending/UserRequestView/Medicine.vue" />
+        <option value="$PROJECT_DIR$/../database/migrations/2018_07_25_235613_create_transactions_table.php" />
+        <option value="$PROJECT_DIR$/../app/Transaction.php" />
+        <option value="$PROJECT_DIR$/../app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/../app/Http/Controllers/OrderController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-175" />
+    <option name="y" value="37" />
+    <option name="width" value="1004" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UnreachableCodeJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+              <item name="Pending" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+              <item name="Pending" type="462c0819:PsiDirectoryNode" />
+              <item name="UserRequestView" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Order&#9;FILE&#9;file://C:/Users/Edward Lance Lorilla/Documents/Projects/absolute/app/Http/Controllers/OrderController.php&#10;Tra&#9;FILE&#9;file://C:/Users/Edward Lance Lorilla/Documents/Projects/absolute/app/Http/Controllers/TransactionController.php&#10;create&#9;FILE&#9;file://C:/Users/Edward Lance Lorilla/Documents/Projects/absolute/database/migrations/2018_07_25_235613_create_transactions_table.php&#10;produc&#9;FILE&#9;file://C:/Users/Edward Lance Lorilla/Documents/Projects/absolute/app/Http/Controllers/ProductsController.php&#10;Pen&#9;FILE&#9;file://C:/Users/Edward Lance Lorilla/Documents/Projects/absolute/app/Http/Controllers/PendingController.php&#10;api&#9;FILE&#9;file://C:/Users/Edward Lance Lorilla/Documents/Projects/absolute/routes/api.php&#10;app&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/app.js&#10;Pend&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/PendingController.php&#10;Supp&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/SupplyController.php&#10;activi&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/components/Layout/Activity&#10;suppl&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/SupplyController.php&#10;Pending&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/PendingController.php&#10;ris&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/RisController.php&#10;Rec&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/ReceiptController.php&#10;print&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/components/Layout/Requests/print.vue&#10;Request/p&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/components/Layout/Requests/print.vue&#10;Re&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/RequestsController.php&#10;Pri&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/PrintPurchaseOrder.php&#10;Req&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Request.php&#10;Reques&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/RequestsController.php&#10;prin&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/components/Layout/Requests/print.vue&#10;Trac&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/database/migrations/2018_09_04_190640_create_tracks_table.php&#10;Transa&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/TransactionController.php&#10;pen&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/PendingController.php&#10;medic&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/components/Layout/Pending/UserRequestView/Medicine.vue&#10;pri&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/PrintPurchaseOrder.php&#10;Pr&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/PrintPurchaseOrder.php&#10;T&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Track.php&#10;Track&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/database/migrations/2018_09_04_190640_create_tracks_table.php&#10;Pendi&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/PendingController.php&#10;create_tr&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/database/migrations/2018_07_25_235613_create_transactions_table.php&#10;a&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/routes/api.php&#10;wh&#9;FILE&#9;file://C:/Users/Edward Lance Lorilla/Documents/while.html&#10;tra&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Transaction.php&#10;tr&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/database/migrations/2018_07_25_235613_create_transactions_table.php&#10;Pro&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/ProductsController.php&#10;order&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/OrderController.php&#10;pro&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Product.php&#10;medi&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/components/Layout/Pending/UserRequestView/Medicine.vue&#10;P&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/PendingController.php&#10;product&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/ProductsController.php&#10;User&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/UserController.php&#10;nav&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/components/Layout/Navigation.vue&#10;Na&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/components/Layout/Navigation.vue&#10;Ex&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Notifications/Expiry.php&#10;Product&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/ProductsController.php&#10;user&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/UserController.php&#10;create_tra&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/database/migrations/2018_07_25_235613_create_transactions_table.php&#10;Sub&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/resources/assets/js/components/Layout/Order/SubjectType.vue&#10;Produ&#9;FILE&#9;file://C:/xampp2/htdocs/absolute/app/Http/Controllers/ProductsController.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\absolute\resources\assets\js\components\Layout\Pending\UserRequestView" />
+      <recent name="C:\xampp\htdocs\absolute\resources\assets\js\components\Layout\Office" />
+      <recent name="C:\xampp\htdocs\absolute\resources\assets\js\components\Layout\Pending" />
+      <recent name="C:\xampp\htdocs\absolute\resources\assets\js\components\Layout\Pending\UserView" />
+      <recent name="C:\xampp\htdocs\absolute\resources\assets\js\components\Layout\Receipt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\absolute\resources\assets\js\components\Supplies" />
+      <recent name="C:\xampp\htdocs\absolute\resources\assets\js\components\Supplies\xml" />
+      <recent name="C:\xampp\htdocs\clear-laravel\resources\assets\js\components\Layout\Requests" />
+      <recent name="C:\xampp\htdocs\clear-laravel\resources\assets\images" />
+      <recent name="C:\xampp\htdocs\clear-laravel\resources\assets\libs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ee2f20e-bcf0-468b-b0d2-5816ce349fcd" name="Default" comment="" />
+      <created>1530373629205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530373629205</updated>
+      <workItem from="1530373638900" duration="4576000" />
+      <workItem from="1530379489707" duration="6818000" />
+      <workItem from="1530419695679" duration="3683000" />
+      <workItem from="1530621172139" duration="18613000" />
+      <workItem from="1530680183774" duration="5024000" />
+      <workItem from="1530711698999" duration="6710000" />
+      <workItem from="1530721550172" duration="10936000" />
+      <workItem from="1530771228362" duration="3928000" />
+      <workItem from="1530790560652" duration="16234000" />
+      <workItem from="1531387930382" duration="738000" />
+      <workItem from="1531389298002" duration="4772000" />
+      <workItem from="1531401278148" duration="4402000" />
+      <workItem from="1531406051487" duration="5447000" />
+      <workItem from="1531595504770" duration="4995000" />
+      <workItem from="1531643203547" duration="13086000" />
+      <workItem from="1531657956764" duration="1246000" />
+      <workItem from="1531668099223" duration="12241000" />
+      <workItem from="1531680721418" duration="11498000" />
+      <workItem from="1531721111135" duration="2444000" />
+      <workItem from="1531723897738" duration="6688000" />
+      <workItem from="1531746605714" duration="20758000" />
+      <workItem from="1531770325789" duration="122000" />
+      <workItem from="1531811252252" duration="28095000" />
+      <workItem from="1531896044103" duration="12965000" />
+      <workItem from="1531918574332" duration="18676000" />
+      <workItem from="1531998112521" duration="46754000" />
+      <workItem from="1532099765776" duration="1695000" />
+      <workItem from="1532102851432" duration="10632000" />
+      <workItem from="1532167609732" duration="4337000" />
+      <workItem from="1532174054392" duration="9628000" />
+      <workItem from="1532188074419" duration="2801000" />
+      <workItem from="1532234309092" duration="11565000" />
+      <workItem from="1532259355879" duration="6020000" />
+      <workItem from="1532267988850" duration="1256000" />
+      <workItem from="1532441453402" duration="4504000" />
+      <workItem from="1532503418997" duration="47418000" />
+      <workItem from="1532610541748" duration="38572000" />
+      <workItem from="1532751792701" duration="27234000" />
+      <workItem from="1532841753587" duration="10920000" />
+      <workItem from="1532875726144" duration="6299000" />
+      <workItem from="1532928210588" duration="11951000" />
+      <workItem from="1533035498103" duration="2205000" />
+      <workItem from="1533045222211" duration="6176000" />
+      <workItem from="1533133914029" duration="15921000" />
+      <workItem from="1533187892582" duration="27312000" />
+      <workItem from="1533285394459" duration="131000" />
+      <workItem from="1533302434894" duration="5680000" />
+      <workItem from="1533319958661" duration="643000" />
+      <workItem from="1533355448243" duration="996000" />
+      <workItem from="1533365338836" duration="10716000" />
+      <workItem from="1533398456291" duration="1288000" />
+      <workItem from="1533461222413" duration="9424000" />
+      <workItem from="1533477416697" duration="7424000" />
+      <workItem from="1533489317690" duration="1837000" />
+      <workItem from="1533491471855" duration="10370000" />
+      <workItem from="1533624942249" duration="24294000" />
+      <workItem from="1533726067551" duration="19510000" />
+      <workItem from="1533785005398" duration="6502000" />
+      <workItem from="1533797415204" duration="705000" />
+      <workItem from="1533799961535" duration="9000" />
+      <workItem from="1533800242794" duration="16000" />
+      <workItem from="1533800609312" duration="1964000" />
+      <workItem from="1533806757629" duration="8783000" />
+      <workItem from="1533911140745" duration="9128000" />
+      <workItem from="1534124519134" duration="2538000" />
+      <workItem from="1534128449427" duration="6399000" />
+      <workItem from="1534157662840" duration="2738000" />
+      <workItem from="1534210593317" duration="6435000" />
+      <workItem from="1534227173333" duration="24328000" />
+      <workItem from="1534339180262" duration="39094000" />
+      <workItem from="1534675662334" duration="829000" />
+      <workItem from="1534697365995" duration="6113000" />
+      <workItem from="1534948841379" duration="7422000" />
+      <workItem from="1534997306144" duration="7916000" />
+      <workItem from="1535017700035" duration="5919000" />
+      <workItem from="1535039980085" duration="10155000" />
+      <workItem from="1535050706387" duration="91000" />
+      <workItem from="1535050856775" duration="3043000" />
+      <workItem from="1535119088914" duration="6810000" />
+      <workItem from="1535991175797" duration="5862000" />
+      <workItem from="1536087105871" duration="5597000" />
+      <workItem from="1536168579530" duration="9520000" />
+      <workItem from="1536850017519" duration="972000" />
+      <workItem from="1537587424189" duration="44000" />
+      <workItem from="1537587814610" duration="5501000" />
+      <workItem from="1537975315149" duration="7025000" />
+      <workItem from="1538025955439" duration="445000" />
+      <workItem from="1538037895134" duration="2210000" />
+      <workItem from="1538044980279" duration="5760000" />
+      <workItem from="1538058719915" duration="4028000" />
+      <workItem from="1538142073282" duration="10390000" />
+      <workItem from="1538226945411" duration="4583000" />
+      <workItem from="1538288486676" duration="8199000" />
+      <workItem from="1538402688550" duration="232000" />
+      <workItem from="1538485847217" duration="376000" />
+      <workItem from="1538831616519" duration="8879000" />
+      <workItem from="1539180213827" duration="2474000" />
+      <workItem from="1539187114663" duration="1637000" />
+      <workItem from="1539190833790" duration="3704000" />
+      <workItem from="1539239964651" duration="22332000" />
+      <workItem from="1539285724116" duration="1609000" />
+      <workItem from="1539321781708" duration="6018000" />
+      <workItem from="1539347997342" duration="2057000" />
+      <workItem from="1539357760816" duration="2549000" />
+      <workItem from="1539434877040" duration="2441000" />
+      <workItem from="1539450666910" duration="25601000" />
+      <workItem from="1539601020644" duration="8082000" />
+      <workItem from="1539698879741" duration="1684000" />
+      <workItem from="1539710352517" duration="3410000" />
+      <workItem from="1539782458971" duration="5373000" />
+      <workItem from="1539858552316" duration="19705000" />
+      <workItem from="1539926942255" duration="5404000" />
+      <workItem from="1539973408552" duration="588000" />
+      <workItem from="1540035605211" duration="5456000" />
+      <workItem from="1540095499760" duration="2178000" />
+      <workItem from="1540127738610" duration="9075000" />
+      <workItem from="1540201772016" duration="24395000" />
+      <workItem from="1540307661029" duration="5063000" />
+      <workItem from="1540316542573" duration="1693000" />
+      <workItem from="1540339804683" duration="15272000" />
+      <workItem from="1540443698956" duration="6276000" />
+      <workItem from="1540480349998" duration="29000" />
+      <workItem from="1540481473841" duration="866000" />
+      <workItem from="1540483941290" duration="23637000" />
+      <workItem from="1540649969127" duration="1107000" />
+      <workItem from="1540988765366" duration="959000" />
+      <workItem from="1541019552918" duration="21686000" />
+      <workItem from="1541096232739" duration="3337000" />
+      <workItem from="1541162566763" duration="3789000" />
+      <workItem from="1541168325302" duration="10774000" />
+      <workItem from="1541219439284" duration="3206000" />
+      <workItem from="1541238450516" duration="16390000" />
+      <workItem from="1541264889911" duration="7227000" />
+      <workItem from="1541349279562" duration="9949000" />
+      <workItem from="1541409436452" duration="755000" />
+      <workItem from="1541424288220" duration="13712000" />
+      <workItem from="1541507728558" duration="6691000" />
+      <workItem from="1541524150961" duration="5317000" />
+      <workItem from="1541601459639" duration="715000" />
+      <workItem from="1541604753682" duration="6711000" />
+      <workItem from="1541646714482" duration="16036000" />
+      <workItem from="1541779463945" duration="20833000" />
+      <workItem from="1541856942274" duration="17097000" />
+      <workItem from="1541908817922" duration="18929000" />
+      <workItem from="1541941052012" duration="509000" />
+      <workItem from="1541948466210" duration="4002000" />
+      <workItem from="1542022764406" duration="4108000" />
+      <workItem from="1542051910121" duration="16251000" />
+      <workItem from="1542157505370" duration="4184000" />
+      <workItem from="1542199898134" duration="17566000" />
+      <workItem from="1542249786536" duration="3514000" />
+      <workItem from="1542277795424" duration="2524000" />
+      <workItem from="1542295248155" duration="416000" />
+      <workItem from="1542296820591" duration="1606000" />
+      <workItem from="1542339292660" duration="9361000" />
+      <workItem from="1542381251351" duration="8948000" />
+      <workItem from="1542457937953" duration="8739000" />
+      <workItem from="1542550744677" duration="7394000" />
+      <workItem from="1542588417614" duration="4541000" />
+      <workItem from="1542630411999" duration="3261000" />
+      <workItem from="1542639731173" duration="8721000" />
+      <workItem from="1542716211905" duration="5566000" />
+      <workItem from="1542769589652" duration="3039000" />
+      <workItem from="1542810927042" duration="740000" />
+      <workItem from="1542885210035" duration="5952000" />
+      <workItem from="1542931907387" duration="12378000" />
+      <workItem from="1542994492706" duration="4272000" />
+      <workItem from="1543000062998" duration="45000" />
+      <workItem from="1543032465263" duration="20941000" />
+      <workItem from="1543146901514" duration="7848000" />
+      <workItem from="1543200821948" duration="8040000" />
+      <workItem from="1543245020083" duration="2479000" />
+      <workItem from="1543323568239" duration="11871000" />
+      <workItem from="1543367942433" duration="10816000" />
+      <workItem from="1543453295228" duration="1199000" />
+      <workItem from="1543499348870" duration="9763000" />
+      <workItem from="1543578332606" duration="584000" />
+      <workItem from="1543594319179" duration="6471000" />
+      <workItem from="1543628438044" duration="4181000" />
+      <workItem from="1543675106651" duration="37251000" />
+      <workItem from="1543764947767" duration="7713000" />
+      <workItem from="1543803117108" duration="11376000" />
+      <workItem from="1543891394020" duration="4120000" />
+      <workItem from="1543927911722" duration="13778000" />
+      <workItem from="1544003213370" duration="706000" />
+      <workItem from="1544030774030" duration="662000" />
+      <workItem from="1544837323652" duration="2145000" />
+      <workItem from="1545101481274" duration="3848000" />
+      <workItem from="1545136881968" duration="1548000" />
+      <workItem from="1545186005536" duration="9780000" />
+      <workItem from="1545223869311" duration="18720000" />
+      <workItem from="1545243463512" duration="3217000" />
+      <workItem from="1545248731561" duration="14962000" />
+      <workItem from="1545312076233" duration="29000" />
+      <workItem from="1547689546674" duration="3511000" />
+      <workItem from="1548566228707" duration="199000" />
+      <workItem from="1548566585149" duration="80000" />
+      <workItem from="1548575493953" duration="13243000" />
+      <workItem from="1548600420409" duration="11759000" />
+      <workItem from="1548633868830" duration="3894000" />
+      <workItem from="1548638100777" duration="49000" />
+      <workItem from="1548639063230" duration="1003000" />
+      <workItem from="1548646602706" duration="157000" />
+      <workItem from="1548658275212" duration="14127000" />
+      <workItem from="1548679108942" duration="2384000" />
+      <workItem from="1548975033230" duration="4276000" />
+      <workItem from="1548980698727" duration="1857000" />
+      <workItem from="1548983014021" duration="687000" />
+      <workItem from="1549511075323" duration="2899000" />
+      <workItem from="1549590703886" duration="3798000" />
+      <workItem from="1549628909904" duration="17608000" />
+      <workItem from="1549672126550" duration="16393000" />
+      <workItem from="1549723972039" duration="8947000" />
+      <workItem from="1549770024175" duration="685000" />
+      <workItem from="1549771524359" duration="8662000" />
+      <workItem from="1549795145886" duration="18639000" />
+      <workItem from="1549847499235" duration="6668000" />
+      <workItem from="1549861950600" duration="2826000" />
+      <workItem from="1549876715357" duration="181000" />
+      <workItem from="1549889205720" duration="7174000" />
+      <workItem from="1549930423874" duration="11167000" />
+      <workItem from="1549948230749" duration="1457000" />
+      <workItem from="1549961425634" duration="1099000" />
+      <workItem from="1549962768610" duration="339000" />
+      <workItem from="1549973676661" duration="4484000" />
+      <workItem from="1550759623654" duration="3828000" />
+      <workItem from="1550845159130" duration="2399000" />
+      <workItem from="1550927319565" duration="242000" />
+      <workItem from="1550978388001" duration="221000" />
+      <workItem from="1550994508214" duration="5497000" />
+      <workItem from="1551003152563" duration="9607000" />
+      <workItem from="1551016360974" duration="16494000" />
+      <workItem from="1551050820106" duration="11205000" />
+      <workItem from="1551064798284" duration="1040000" />
+      <workItem from="1551098977611" duration="21734000" />
+      <workItem from="1551142503903" duration="8748000" />
+      <workItem from="1551194147069" duration="3461000" />
+      <workItem from="1551242934911" duration="431000" />
+      <workItem from="1551453714229" duration="8474000" />
+    </task>
+    <task id="LOCAL-00001" summary="implement adminlte">
+      <created>1530690354359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530690354359</updated>
+    </task>
+    <task id="LOCAL-00002" summary="implement adminlte">
+      <created>1530718092505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530718092505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="edit footer main, preloader fixed,">
+      <created>1530731325588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530731325588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change loading">
+      <created>1530805732354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1530805732354</updated>
+    </task>
+    <task id="LOCAL-00005" summary="handling some errors">
+      <created>1530807283056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530807283056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1856004000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="1266" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32833186" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50323623" side_tool="true" weight="0.3286385" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3821712" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" weight="0.2665148" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37165082" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6492027" weight="0.26757812" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32902467" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" weight="0.32928804" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.35079727" side_tool="true" weight="0.24029127" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Gulp" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298122" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implement adminlte" />
+    <MESSAGE value="edit footer main, preloader fixed," />
+    <MESSAGE value="change loading" />
+    <MESSAGE value="handling some errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="handling some errors" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../adveritising_online/resources/js/app.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/js/components/Layout/Pending/UserRequestView/print_user_request.vue</url>
+          <line>55</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/js/components/Layout/Table/Grid.vue</url>
+          <line>74</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/js/components/Layout/Order/print.vue</url>
+          <line>58</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="47" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../while.html" />
+    <entry file="file://$PROJECT_DIR$/../app/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="40" column="6" selection-start-line="26" selection-start-column="4" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/http/http3.php" />
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Division/view.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="107" column="41" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../database/migrations/2019_02_08_022256_create_print_purchase_orders_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/CategoryPackage/ProductEditCheckIn.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="155" column="162" selection-start-line="155" selection-start-column="162" selection-end-line="155" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../database/migrations/2018_11_02_124623_create_orders_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="70" selection-start-line="18" selection-start-column="11" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/MainSidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="26" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Pending/show-supply.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="171" column="73" selection-start-line="171" selection-start-column="73" selection-end-line="171" selection-end-column="73" />
+          <folding>
+            <element signature="e#376#1294#0" />
+            <element signature="e#4478#7597#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../database/migrations/2018_09_04_190640_create_tracks_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Track.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Transactions/Transaction.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/PrintPurchaseOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/RequestsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="116" column="48" selection-start-line="111" selection-start-column="6" selection-end-line="116" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Requests/print.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4573">
+          <caret line="714" column="10" selection-start-line="714" selection-start-column="10" selection-end-line="714" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Requests/Request.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="30" selection-start-line="69" selection-start-column="12" selection-end-line="88" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/ReceiptController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Receipt/view.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="97" selection-start-line="85" selection-start-column="97" selection-end-line="85" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Supplies/create_supply.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="151" column="156" selection-start-line="151" selection-start-column="70" selection-end-line="151" selection-end-column="156" />
+          <folding>
+            <element signature="e#2736#8971#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Order/print.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="234" column="45" selection-start-line="234" selection-start-column="14" selection-end-line="234" selection-end-column="45" />
+          <folding>
+            <element signature="n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#tr#1;n#thead#0;n#table#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#tr#2;n#thead#0;n#table#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#tr#3;n#thead#0;n#table#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#tr#4;n#thead#0;n#table#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#tr#5;n#thead#0;n#table#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#tr#6;n#thead#0;n#table#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Supplies/checkin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="929">
+          <caret line="433" column="17" selection-start-line="433" selection-start-column="17" selection-end-line="433" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Receipt/print.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="591" column="70" selection-start-line="591" selection-start-column="70" selection-end-line="591" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Activity/updated_track.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Activity/view.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="46" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/RisController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="e#40#67#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Supply.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/SupplyController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4250">
+          <caret line="252" column="30" selection-start-line="252" selection-start-column="30" selection-end-line="252" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Activity/updated_supply.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Office/checkin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10693">
+          <caret line="629" column="26" selection-start-line="629" selection-start-column="11" selection-end-line="629" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Supplies/create.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="14" selection-start-line="125" selection-end-line="132" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Supplies/create_office_supply.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5253">
+          <caret line="309" column="9" selection-start-line="309" selection-start-column="9" selection-end-line="309" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Pending/UserRequestView/Medicine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#el-select#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#2;n#div#0;n#div#0;n#el-form#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-option#0;n#el-select#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#2;n#div#0;n#div#0;n#el-form#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#el-option#0;n#el-select#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#2;n#div#0;n#div#0;n#el-form#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Product/create.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="n#style#0;n#el-option#0;n#el-select#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#el-option#0;n#el-select#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="905" column="55" lean-forward="true" selection-start-line="905" selection-start-column="16" selection-end-line="905" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Navigation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="39" lean-forward="true" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Dashboard/wrapper.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/components/Layout/Dashboard/RecentExpireMedicine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="37" column="162" selection-start-line="37" selection-start-column="156" selection-end-line="37" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/ProductsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/PendingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="340" column="117" selection-start-line="340" selection-start-column="109" selection-end-line="340" selection-end-column="117" />
+          <folding>
+            <element signature="e#40#56#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/TrackController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="127" column="21" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../database/migrations/2018_07_25_235613_create_transactions_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Transaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="175" selection-start-line="15" selection-start-column="158" selection-end-line="15" selection-end-column="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Notifications/Expiry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/TransactionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="126" column="122" selection-start-line="126" selection-start-column="122" selection-end-line="126" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="122" column="28" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/Http/Controllers/OrderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="101" column="158" lean-forward="true" selection-start-line="101" selection-start-column="120" selection-end-line="101" selection-end-column="158" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
